@@ -7,6 +7,30 @@
 - code every day a bit
 - build projects
 
+### Day 3: February 2, 2021
+
+**Plans for Today:**
+1. Learn Vue
+2. Start css-redo.
+
+**Today's Progress:**
+1. Added random cocktail recipe to nuxt app. But only title, image, category and description. I don't know how to filter array from api in Vue.
+2. Tried to run another project but had problems with dependencies (ESlint error)
+
+**Thoughts:**
+1. I don't know how to filter array from api in vue and how to create a component that uses only part of data from api. I'm using cocktail api. In each cocktail there are different ingredients. I want to create Ingredients component. 
+
+**Link to work:**
+* https://github.com/maknetaRo/nuxt-js-coctail-app/commit/3dd8a68873ddcb7d0d411e2e569a13db4a4be324
+
+**Plans for tomorrow:**
+1. Resolve problem with Eslint and start working on that project - I need to change CSS in Nuxt.js project
+2. Continue learning about components and passing data from one component into another
+
+**Resources:**
+* https://www.thecocktaildb.com/api.php
+
+
 ### Day 2: February 1, 2021
 
 **Plans for Today:**
