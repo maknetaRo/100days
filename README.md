@@ -30,6 +30,17 @@
 **Resources:**
 * https://www.thecocktaildb.com/api.php
 
+### Day 6: Ferbruary 8, 2021
+
+**Today's Progress:**
+Haven't done much. Only a very small bit of CSS in Nuxt.js project. It's difficult for me to figurate where some things come from (in CSS) even though there are not many CSS files. 
+
+
+### Day 3, 4, 5: February 2, 3, 4, 2021
+
+**Thoughts:**
+I was having a problem with ESLint for 2 days. I couldn't make it work and didn't know what it was and why I couldn't do anything in a project. I figured it out (at least I hope so) and started redoing some CSS in the Nuxt.js project. 
+
 
 ### Day 2: February 1, 2021
 
