@@ -7,6 +7,43 @@
 - code every day a bit
 - build projects
 
+### Day 8: February 12, 2021
+
+**Plans for Today:**
+* Learn Vue
+
+**Today's Progress:**
+* read and coded along and took notes of 5 days from 30 days of Vue.
+* watched a short video about getters and setters in JavaScript
+
+**Thoughts:**
+Like 30 days of Vue
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* continue 30 days of Vue from day 6
+* work a bit on Nuxt project
+
+**Resources:**
+* https://www.newline.co/30-days-of-vue
+
+### Day 7: February 10, 2021
+
+**Plans for Today:**
+1. Continue Vue tutorial from Tania Rascia
+
+**Today's Progress:**
+Did a bit of the Vue tutorial. Started learning something quite new (Hkll) but decided that it's not right time to do it now. 
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 6: Ferbruary 8, 2021
 
 **Today's Progress:**
