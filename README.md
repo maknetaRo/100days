@@ -14,10 +14,19 @@
 
 **Today's Progress:**
 * read and coded along and took notes of 5 days from 30 days of Vue.
+- Vue directives: 
+1. `v-on` -- `@`
+2. `v-bind` -- `:`
+3. `v-if`
+4. `v-show`
+5. `v-for`
+
+
 * watched a short video about getters and setters in JavaScript
 
 **Thoughts:**
-Like 30 days of Vue
+Like 30 days of Vue tut.
+
 
 **Link to work:**
 
