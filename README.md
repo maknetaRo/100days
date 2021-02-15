@@ -7,6 +7,39 @@
 - code every day a bit
 - build projects
 
+### Day 11: February 15, 2021
+
+**Plans for Today:**
+* lifecycle hooks in Vue 
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+
+### Day 9-10: February 13-14, 2021
+
+**Plans for Today:**
+
+**Today's Progress:**
+Read 30 days of vue till Lifecycle hooks
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* read/learn about Lifecycle hooks and more from 30 days of Vue
+
+**Resources:**
+https://www.newline.co/30-days-of-vue/
+
 ### Day 8: February 12, 2021
 
 **Plans for Today:**
