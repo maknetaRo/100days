@@ -13,14 +13,19 @@
 * lifecycle hooks in Vue 
 
 **Today's Progress:**
+* revised previous days of the 30 days of Vue tutorial
+* read about lifecycle hooks in Vue
+* spent most of my time trying to make ssh github key work properly
 
 **Thoughts:**
 
 **Link to work:**
 
 **Plans for tomorrow:**
+* Zeton project 
 
 **Resources:**
+* https://www.newline.co/30-days-of-vue/day-10-lifecycle-hooks
 
 
 ### Day 9-10: February 13-14, 2021
