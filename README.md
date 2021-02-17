@@ -7,6 +7,25 @@
 - code every day a bit
 - build projects
 
+### Day 12: February 17, 2021
+
+**Plans for Today:**
+* vue components
+
+**Today's Progress:**
+* read 3 chapters (3 days) about Vue components from 30 days of Vue course
+* learned how props and custom events work (in general)
+"Props are always used to pass data downwards (parent -> child -> grandchild, etc) while custom events can be used to send information upwards."
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* finish reading about components in Vue 
+
+**Resources:**
+
 ### Day 11: February 15, 2021
 
 **Plans for Today:**
