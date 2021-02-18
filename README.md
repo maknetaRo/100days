@@ -7,6 +7,8 @@
 - code every day a bit
 - build projects
 
+---
+
 ### Day 13: February 18, 2021
 
 **Plans for Today:**
@@ -53,6 +55,8 @@ git push origin --delete master
 * Country API: https://restcountries.eu/
 * Vue JS 2 tutorial by net ninja: https://www.youtube.com/watch?v=3ROjxrSa5pk&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=2
 
+---
+
 ### Day 12: February 17, 2021
 
 **Plans for Today:**
@@ -71,6 +75,8 @@ git push origin --delete master
 * finish reading about components in Vue 
 
 **Resources:**
+
+---
 
 ### Day 11: February 15, 2021
 
@@ -92,6 +98,7 @@ git push origin --delete master
 **Resources:**
 * https://www.newline.co/30-days-of-vue/day-10-lifecycle-hooks
 
+---
 
 ### Day 9-10: February 13-14, 2021
 
@@ -109,6 +116,8 @@ Read 30 days of vue till Lifecycle hooks
 
 **Resources:**
 https://www.newline.co/30-days-of-vue/
+
+---
 
 ### Day 8: February 12, 2021
 
@@ -140,6 +149,8 @@ Like 30 days of Vue tut.
 **Resources:**
 * https://www.newline.co/30-days-of-vue
 
+---
+
 ### Day 7: February 10, 2021
 
 **Plans for Today:**
@@ -156,16 +167,21 @@ Did a bit of the Vue tutorial. Started learning something quite new (Hkll) but d
 
 **Resources:**
 
+---
+
 ### Day 6: Ferbruary 8, 2021
 
 **Today's Progress:**
 Haven't done much. Only a very small bit of CSS in Nuxt.js project. It's difficult for me to figurate where some things come from (in CSS) even though there are not many CSS files. 
 
+---
 
 ### Day 4, 5: February 3, 4, 2021
 
 **Thoughts:**
 I was having a problem with ESLint for 2 days. I couldn't make it work and didn't know what it was and why I couldn't do anything in a project. I figured it out (at least I hope so) and started redoing some CSS in the Nuxt.js project. 
+
+---
 
 ### Day 3: February 2, 2021
 
@@ -190,6 +206,8 @@ I was having a problem with ESLint for 2 days. I couldn't make it work and didn'
 **Resources:**
 * https://www.thecocktaildb.com/api.php
 
+---
+
 ### Day 2: February 1, 2021
 
 **Plans for Today:**
@@ -211,6 +229,8 @@ I love that vue uses similar directives to those used by Angular. I don't rememb
 
 **Resources:**
 * https://www.taniarascia.com/getting-started-with-vue/
+
+---
 
 ### Day 1: January 30 , 2021
 
@@ -236,7 +256,7 @@ https://github.com/maknetaRo/nuxt-js-coctail-app/tree/main
 **Resources:**
 * https://www.youtube.com/results?search_query=nuxt+js+application
 
-
+---
 
 #### Resources
 * https://nuxtjs.org/
