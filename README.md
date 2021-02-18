@@ -7,6 +7,52 @@
 - code every day a bit
 - build projects
 
+### Day 13: February 18, 2021
+
+**Plans for Today:**
+- more on Vue components
+
+**Today's Progress:**
+1. read more about vue components and starting project with cli
+2. started a new vue app but managed only to create one component
+
+**Thoughts:**
+In theory, props are easy but now when I want to build my own project without using any tutorial I have some problems with deciding what components I should build and how to pass data from parent component into a child component. 
+
+Since master was replaced with main on Github I've got some problems with doing it properly. Instruction how to change master into main 
+```
+# Step 1 
+# create main branch locally, taking the history from master
+git branch -m master main
+
+# Step 2 
+# push the new local main branch to the remote repo (GitHub) 
+git push -u origin main
+
+# Step 3
+# switch the current HEAD to the main branch
+git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+
+# Step 4
+# change the default branch on GitHub to main
+# https://docs.github.com/en/github/administering-a-repository/setting-the-default-branch
+
+# Step 5
+# delete the master branch on the remote
+git push origin --delete master
+```
+
+**Link to work:**
+- https://github.com/maknetaRo/countries-vue-app
+
+**Plans for tomorrow:**
+- continue my project
+- maybe watch Vue JS 2 Tutorial by net ninja 
+
+**Resources:**
+* Country API: https://restcountries.eu/
+* Vue JS 2 tutorial by net ninja: https://www.youtube.com/watch?v=3ROjxrSa5pk&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=2
+
 ### Day 12: February 17, 2021
 
 **Plans for Today:**
