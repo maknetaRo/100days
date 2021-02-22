@@ -9,6 +9,67 @@
 
 ---
 
+### Day 16: February 22, 2021
+
+**Plans for Today:**
+* Żeton 
+
+**Today's Progress:**
+* revised a bit of Vue notes (created space repetition system on Notion)
+* started working on Żeton using styled components, created ListElement and AddElementForm
+
+**Thoughts:**
+I know that I know nothing. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* more work on Żeton, try style components and handle the form submission
+
+**Resources:**
+
+---
+
+### Day 15: February 20, 2021
+
+**Plans for Today:**
+* make notes about Vue features
+* start working on zeton 
+
+**Today's Progress:**
+* Spend my time mostly making notes about VueJS
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+---
+
+### Day 14: February 19, 2021
+
+**Plans for Today:**
+* continue Vue project
+
+**Today's Progress:**
+* not much progress: I came back to one component only because now I want to be able to sort columns and really don't know how to do it.
+
+**Thoughts:**
+Creating tables with data from api isn't as easy as I thought :-(. This conclusion made me a bit sad and made me start thinking again that I know nothing about programming thinking and how to change it.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* need to work on Zeton
+* check how sorting was working in another project I took part in 
+
+**Resources:**
+
+---
+
 ### Day 13: February 18, 2021
 
 **Plans for Today:**
