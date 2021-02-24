@@ -7,6 +7,49 @@
 - code every day a bit
 - build projects
 
+### Day 18: February 24, 2021
+
+**Plans for Today:**
+- learn React
+- work on zeton
+
+**Today's Progress:**
+* worked a bit on select form in React but haven't finished it yet
+* watched more than 20 episodes of Complete React Developer in 2021 and coded along
+
+**Thoughts:**
+* need to stick to the course even though video courses aren't my fav way of learning; need to implement what I've learned in google font app; I mean I have a simple js app with google fonts and I could move it into React to practise.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+- React course
+- finish select form 
+
+**Resources:**
+* https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15103904#content
+
+
+---
+
+### Day 17: February 23, 2021
+
+**Plans for Today:**
+- zeton project: react styled components
+
+**Today's Progress:**
+- wrote some code and then had a meeting and after the meeting I put all the code to the trash 
+
+**Thoughts:**
+- need to spend more time learning and understanding React
+
+**Link to work:**
+
+**Plans for tomorrow:**
+- react
+
+**Resources:**
+
 ---
 
 ### Day 16: February 22, 2021
@@ -337,4 +380,8 @@ https://github.com/maknetaRo/nuxt-js-coctail-app/tree/main
 
 **Plans for tomorrow:**
 
-**Resources:** -->
+**Resources:**
+
+---
+
+ -->
