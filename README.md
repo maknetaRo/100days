@@ -7,6 +7,29 @@
 - code every day a bit
 - build projects
 
+### Day 19: February 25, 2021
+
+**Plans for Today:**
+* React course
+* style select form
+
+**Today's Progress:**
+* watched 9 videos from the course
+* started building react app using an old html/css/js project
+
+**Thoughts:**
+I couldn't focus on videos today. They were too theoretical. I think I will have to come back to some of them later. I want to do my own small project (at least part of it with adding api and searching through cards) before starting the final project from the course. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* watch some more videos
+* work on select and some other CSS (nuxt)
+
+**Resources:**
+
+---
+
 ### Day 18: February 24, 2021
 
 **Plans for Today:**
@@ -28,6 +51,8 @@
 
 **Resources:**
 * https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15103904#content
+* https://www.freecodecamp.org/news/styled-components-essentials-in-three-steps/
+* https://spectrum.chat/styled-components/help/how-to-make-dropdown-menu-with-styled-components~219502c6-b8e2-476e-a9fd-0780f1a3e8d6
 
 
 ---
