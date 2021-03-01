@@ -7,6 +7,53 @@
 - code every day a bit
 - build projects
 
+### Day 21: March, 2021
+
+## I decided to focus only on React in March. 
+
+**Plans for Today:**
+* work on custom select in React
+
+**Today's Progress:**
+* started my custom select from the beginning, but I have a few problems:
+- I want to change the "header" part from "Choose a prize" into the actual prize and points, but it is an object and I don't know how to do it with objects;
+- I'm not sure how to add a separate button to it that will trigger some computation
+
+**Thoughts:**
+Styled components are pretty nice. I'm glad I started learning it.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* I may start another course that teaches more about hooks and functional components because I need them. I have also React Tutorial and Projects Course from John Smilga
+
+**Resources:**
+* React Tutorial and Projects Course
+
+---
+
+### Day 20: February 28, 2021
+
+**Plans for Today:**
+
+**Today's Progress:**
+* Actually spent more than 8 hrs learning and coding:
+- watched and followed a few parts of React course
+- tried to create custom select using styled-components in React
+- read about accessibility in custom select and tried to create custom select once again but couldn't make it work properly
+
+**Thoughts:**
+It was my best day for a long time. I was in a flow and it's a fantastic feeling.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* work on custom select
+
+**Resources:**
+
+---
+
 ### Day 19: February 25, 2021
 
 **Plans for Today:**
