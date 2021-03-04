@@ -7,7 +7,25 @@
 - code every day a bit
 - build projects
 
-### Day 21: March, 2021
+### Day 22, 23, 24: March 2, 3, 4, 2021
+
+**Plans for Today:**
+
+**Today's Progress:**
+* I'm doing another React course slowly and also adding some changes to zeton project. 
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/22580598#overview
+
+---
+
+### Day 21: March 1, 2021
 
 ## I decided to focus only on React in March. 
 
