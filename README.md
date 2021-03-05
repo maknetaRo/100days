@@ -7,6 +7,32 @@
 - code every day a bit
 - build projects
 
+### Day 25: March 5 , 2021
+
+**Plans for Today:**
+* react tutorial & google font clone project
+
+**Today's Progress:**
+* created simple card in React js (promps from tutorial but I wasn't checking the tutorial to do it)
+* haven't planned it, but started watching a yt series about Python openCV library and watched 4 videos
+* Fav-Fonts in React: divided card component into smaller parts and added some data
+
+**Thoughts:**
+* really liked this openCV library, I don't know why but I always thought that it is something to work on excel sheets and other "boring" things
+
+**Link to work:**
+- https://github.com/maknetaRo/fav-fonts-react
+
+**Plans for tomorrow:**
+* add google fonts api 
+* continue learning opencv library
+
+**Resources:**
+https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn
+
+
+---
+
 ### Day 22, 23, 24: March 2, 3, 4, 2021
 
 **Plans for Today:**
@@ -458,7 +484,7 @@ https://github.com/maknetaRo/nuxt-js-coctail-app/tree/main
 
 
 <!-- Template
-### Day 0: February , 2021
+### Day 0: March, 2021
 
 **Plans for Today:**
 
