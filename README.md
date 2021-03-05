@@ -26,6 +26,7 @@
 **Plans for tomorrow:**
 * add google fonts api 
 * continue learning opencv library
+* change disabled button style (color) in zeton project and try to refactor the code to divide logic and ui into 2 components
 
 **Resources:**
 https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn
