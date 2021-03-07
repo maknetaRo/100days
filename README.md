@@ -14,9 +14,11 @@
 **Today's Progress:**
 * was only following a bit of React course
 * did some CSS in another project
+* created a small word-cloud project
 
 **Thoughts:**
 * Wasn't feeling good on Saturday, slept all evening
+* working with python is so fun
 
 **Link to work:**
 
@@ -26,6 +28,7 @@
 * follow React tutorial
 
 **Resources:**
+https://github.com/amueller/word_cloud/blob/master/examples/alice.png
 
 ---
 
