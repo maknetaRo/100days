@@ -7,6 +7,29 @@
 - code every day a bit
 - build projects
 
+### Day 26-27: March 6-7, 2021
+
+**Plans for Today:**
+
+**Today's Progress:**
+* was only following a bit of React course
+* did some CSS in another project
+
+**Thoughts:**
+* Wasn't feeling good on Saturday, slept all evening
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* continue CSS in another project
+* try to change button color when disabled in Zeton React project
+* follow React tutorial
+
+**Resources:**
+
+---
+
+
 ### Day 25: March 5 , 2021
 
 **Plans for Today:**
@@ -481,6 +504,8 @@ https://github.com/maknetaRo/nuxt-js-coctail-app/tree/main
 
 #### Resources
 * https://nuxtjs.org/
+* https://automatetheboringstuff.com/2e/chapter12/
+* https://automatetheboringstuff.com/2e/chapter18/
 
 
 
