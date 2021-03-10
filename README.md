@@ -7,6 +7,38 @@
 - code every day a bit
 - build projects
 
+### Day 28 - 30: March 8 - 10, 2021
+
+**Plans for Today:**
+
+**Today's Progress:**
+I finished CSS project I was working for a few days. Now I'm waiting for code review. 
+I'm happy because I managed to add dark and light mode using nuxtjs/color-mode. It wasn't so difficult but I couldn't add svg icons from that library. 
+
+---
+
+How to use vars in scss for root and dark mode. 
+1. First declare variables in scss style:
+`$background-primary-color: #fff;`
+2. Next add them to vars
+`--background-primary-color: #{$background-primary-color};`
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* Come back to React: 
+-- follow React course
+-- work a bit on Zeton (change button disabled color and maybe refactor my code to separate UI from logic)
+
+**Resources:**
+* https://nuxtjs.org/blog/going-dark-with-nuxtjs-color-mode/
+* https://dev.to/kensixx/guide-on-how-to-apply-nuxt-color-mode-with-bulma-1ekc
+
+---
+
+
 ### Day 26-27: March 6-7, 2021
 
 **Plans for Today:**
