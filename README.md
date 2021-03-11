@@ -7,6 +7,39 @@
 - code every day a bit
 - build projects
 
+### Day 31: March 11, 2021
+
+**Plans for Today:**
+* learn React
+* refactor some code in Zeton project
+
+**Today's Progress:**
+* started a new tutorial on Scriba about styled components - managed to do 39%.
+* refactored some parts of the CustomSelect module in Zeton. I moved parts of the elements to smaller styled-components
+* made a more complicated conditional in styling button
+```
+  background-color: ${({ theme, outline, disabled }) => {
+  if (outline === true) {return "transparent"} 
+  else if (disabled === true) { return theme.grey} 
+  else {return theme.primary}
+}};
+```
+
+**Thoughts:**
+I like styled components more and more. And I feel really excited whenever I manage to do sth new.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* continue course on Scrimba (it lasts only 1 hr but is with a project)
+* clone Django edu app repo v.3
+
+**Resources:**
+
+
+---
+
+
 ### Day 28 - 30: March 8 - 10, 2021
 
 **Plans for Today:**
