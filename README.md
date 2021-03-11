@@ -32,7 +32,7 @@ I like styled components more and more. And I feel really excited whenever I man
 
 **Plans for tomorrow:**
 * continue course on Scrimba (it lasts only 1 hr but is with a project)
-* clone Django edu app repo v.3
+* clone Django edu app repo v.3, write the plan for my module, check what I did last time
 
 **Resources:**
 
