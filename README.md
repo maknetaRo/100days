@@ -7,6 +7,30 @@
 - code every day a bit
 - build projects
 
+---
+
+### Day 32: March 12, 2021
+
+**Plans for Today:**
+* continue Scrimba course on Styled Components
+* clone Django project
+
+**Today's Progress:**
+* watched a bit more than 20% of Styled Components tutorial and spent more than 2hrs creating the project
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* Finish the course
+* clone Django project and spend time on that project
+
+**Resources:**
+https://scrimba.com/learn/styledcomponents/passing-props-in-real-life-examples-project-work-co3fa4f778f94ebf9ce27939e
+
+---
+
 ### Day 31: March 11, 2021
 
 **Plans for Today:**
