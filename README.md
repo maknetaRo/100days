@@ -8,6 +8,68 @@
 - build projects
 
 ---
+### Day 34: March 14, 2021
+
+**Plans for Today:**
+
+**Today's Progress:**
+1. returned to John Smilga tutorial on React, learned about short-circuit evalutation 
+```
+const ShortCircuit = () => {
+  const [text, setText] = useState("");
+  return (
+    <div>
+      <h1>{text || 'john doe'}</h1> 
+  
+      {text && <h1>hello world</h1>}
+    </div>
+  )
+}
+```
+- This expression`{text || 'john doe'}` means that if the first value is true, the first value will be displayed but if it's falsy, the second value will be displayed. In our case (because text is an empty string) it displays: 'john doe'
+
+- The expression `{text && <h1>hello world</h1>}` says that if the first value is true, the second value will be displayed, if the first value is false, nothing will be displayed. In that case, nothing will be displayed.
+
+We can also use {!text}
+
+2. Created learning project from the course, almost everything by myself, only the last part I had to follow the tutorial. 
+
+3. Managed to create mysql database in Django project. Created maps app and added dependencies for geodjango. 
+
+4. Watched Emma Bostian talk from ReactJs Girls Conference from 2019
+
+**Thoughts:**
+I want to focus more on React. Much more. I think that learning by building is the best way of learning new stuff. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. continue React course - build at least review project 
+2. start checking how geodjango works
+
+**Resources:**
+* https://www.youtube.com/watch?v=ropAuzI7MtA
+
+---
+
+### Day 33: March 13, 2021
+
+**Plans for Today:**
+
+
+**Today's Progress:**
+* finished styled components tutorial on scrimba
+* cloned Django project
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+---
 
 ### Day 32: March 12, 2021
 
